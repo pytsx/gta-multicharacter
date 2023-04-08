@@ -1,0 +1,10 @@
+import c1 from './c1.png'
+import c2 from './c2.png'
+import c3 from './c3.png'
+import c4 from './c4.png'
+import c5 from './c5.png'
+import c6 from './c6.png'
+import c7 from './c7.png'
+import noise_6 from './noise_6.jpg'
+import fundo from './fundo.jpg'
+export { c1, c2, c3, c4, c5, c6, c7, noise_6, fundo }
